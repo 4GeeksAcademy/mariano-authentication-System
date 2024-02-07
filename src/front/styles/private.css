@@ -1,0 +1,40 @@
+.container-private {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .container-information {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    margin-top: 20px;
+  }
+  
+  .container-information p {
+    margin-bottom: 10px;
+  }
+  
+  .button-logout {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .button-logout:hover {
+    background-color: #bd2130;
+  }
+  
+  .container-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
